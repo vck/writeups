@@ -12,3 +12,10 @@ write up "your gender is male" COMPFEST CTF 2018
   }
 ?>
 ```
+
+clue:
+-----
+```
+You solve this problem as a Man. Man is always wrong, woman is always right.
+```
+
