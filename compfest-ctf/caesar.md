@@ -16,3 +16,9 @@ plaintext:
 ```
 ctfx{i_think_this_probelm_is_too_easy_for_you_so_i_will_try_to_make_something_harder_next_time}
 ```
+
+flag:
+
+```
+CTFX{i_think_this_probelm_is_too_easy_for_you_so_i_will_try_to_make_something_harder_next_time}
+```
